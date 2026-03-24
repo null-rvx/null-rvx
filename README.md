@@ -5,9 +5,6 @@
 
 ## <!--
 **null-rvx/null-rvx** 
-
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on life
 - 🌱 I’m currently learning to live the best life possible 
 - 👯 I’m looking to collaborate on fun
