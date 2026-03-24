@@ -1,5 +1,8 @@
 ## Hi there 👋
 
+## Live life like its your first time 
+
+
 ## <!--
 **null-rvx/null-rvx** 
 
@@ -13,4 +16,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: 0jt7zarf@null0mask.anonaddy.com
 - 😄 Pronouns: Kir/Kos
 - ⚡ Fun fact: I like painters, specificly the Austrian ones.
--->
+## -->
